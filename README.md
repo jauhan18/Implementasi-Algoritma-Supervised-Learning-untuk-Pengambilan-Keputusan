@@ -1,0 +1,2 @@
+# Implementasi-Algoritma-Supervised-Learning-untuk-Pengambilan-Keputusan
+Repositori ini berisi implementasi algoritma supervised learning (Regresi Logistik, Support Vector Machine, dan Decision Tree) untuk mendukung pengambilan keputusan berbasis data. Studi kasus yang digunakan adalah klasifikasi kelayakan kredit berdasarkan beberapa fitur seperti pendapatan, umur, lama bekerja, dan riwayat pinjaman.
